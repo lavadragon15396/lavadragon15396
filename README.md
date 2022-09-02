@@ -5,11 +5,12 @@
 
 ---
 
-### My best code
+### Stuff I Made
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=true"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=true"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lavadragon15396&repo=Fire-Bot&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=true"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lavadragon15396&repo=Meme-App&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=true"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lavadragon15396&repo=My-Website&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=true"></a>
 
 </p>
 
@@ -66,5 +67,5 @@
 
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TAD Dufort's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lavadragon15396&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavadragon15396&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>

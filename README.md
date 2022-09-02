@@ -12,12 +12,6 @@
   <a><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lavadragon15396&repo=Meme-App&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_color=30363d&icon_color=F8D866&show_icons=true"></a>
   <a><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lavadragon15396&repo=My-Website&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=false&border_color=30363d&icon_color=F8D866&show_icons=true"></a>
 
-</p>
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ### My favorite tools
 
 #### Programming and markup languages
